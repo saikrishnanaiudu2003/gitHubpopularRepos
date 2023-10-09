@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.image-1 {
+  height: 100px;
+  padding: 5px;
+}
+.card-items {
+  width: 150px;
+  border: 0px solid;
+  background-color: #f8f8ff;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  margin: 10px;
+  list-style: none;
+}
+.main-head {
+  font-size: 18px;
+  color: red;
+}
+.logo-image {
+  height: 15px;
+  margin-top: 20px;
+  margin-right: 5px;
+}
+.Text-card {
+  display: flex;
+  justify-content: center;
+}
